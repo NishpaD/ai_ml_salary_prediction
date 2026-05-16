@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+Tuned Random Forest Regressor,30684.04,36151.07,-0.0103
+Random Forest Regressor,30869.94,36703.35,-0.0415
+Linear Regression,31564.7,38604.89,-0.1522
